@@ -33,7 +33,7 @@ A combination of metrics such as accuracy, precision, recall, F1-score, and ROC-
 ![scores](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/5b35723f-b1d5-4a7b-9f40-89ec70586d3f)
 
 Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
-![Features](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/666b8e94-bfb2-4c08-8219-d93221a685d9)
+![features image](https://github.com/MucuiBen/SyriaTel-Customer-Churn-Analysis-/assets/127657429/9530593c-1ac0-4559-9dc9-a960d1bed494)
 
 ## Conclusions 
 Factors such as the number of customer service calls, whether the customer has an international plan, and the total day's minutes and charges were significant predictors of customer churn. Interestingly, we found that customers with an international plan are more likely to churn.
